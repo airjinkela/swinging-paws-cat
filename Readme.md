@@ -14,5 +14,6 @@
  - undertale (undertale) (传说之下)
  - windows_cat (Microsoft Windows)
  - youshouyan (有兽焉)
- - unknown (I have an impression, but I forget what it's called)
  - kipfel (キプフェル)
+ - blue_archive (ブルーアーカイブ) (Blue Archive) (蔚蓝档案)
+ - unknown (I have an impression, but I forget what it's called)
