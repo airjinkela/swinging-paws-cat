@@ -16,4 +16,6 @@
  - youshouyan (有兽焉)
  - kipfel (キプフェル)
  - blue_archive (ブルーアーカイブ) (Blue Archive) (蔚蓝档案)
+ - genshin_impact (Genshin Impact) (原神)
+ - jm (禁漫天堂-禁漫娘)
  - unknown (I have an impression, but I forget what it's called)
