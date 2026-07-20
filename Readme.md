@@ -1,5 +1,8 @@
 ## Just some cute cartoon cat sways its paws
 
+<p align="center">
+  <img src="sort_out/kipfel/24f60a4b1ccf0268749330ae2d45920d.gif" width="140" height="140" alt="romHEX14">
+</p>
 
 ### Knows rules
  - bilibili_cat (BiliBili) (哔哩哔哩)
